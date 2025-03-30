@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi , I'm Dhruv 👋
 
-My name is Dhruv , I am a computer science student  intrested in all learnign about new technology
+I am a computer science student  intrested in all learnign about new technology
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
