@@ -2,8 +2,8 @@
 
 I am a computer science student  intrested in learning about new technology
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning fullstack
+- 🔭 I’m currently working on personal projects
+- 🌱 I’m currently learning next-js
 - 👯 I’m looking to collaborate on new projects
 
 <!--
