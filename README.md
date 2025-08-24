@@ -20,9 +20,3 @@
 **Tools:** Git, GitHub, AWS, VS Code  
 
 ---
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=druvetron&theme=tokyonight&hide_border=true&show_icons=true)  
-![](https://streak-stats.demolab.com?user=druvetron&theme=tokyonight&hide_border=true)  
-
----
