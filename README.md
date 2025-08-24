@@ -16,7 +16,7 @@
 **Languages:** C++, Java, Python, JavaScript  
 **Frameworks:** React, Node.js, Spring Boot  
 **Libraries:** NumPy, Pandas, TensorFlow, PyTorch  
-**Databases:** MySQL, MongoDB  
+**Databases:** MySQL
 **Tools:** Git, GitHub, AWS, VS Code  
 
 ---
