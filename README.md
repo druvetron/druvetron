@@ -13,7 +13,7 @@
 ---
 
 ## 💻 Tech Stack
-**Languages:** C++, Java, Python, JavaScript  
+**Languages:** C++, Java, Python, JavaScript , HTML , CSS
 **Frameworks:** React, Node.js, Spring Boot  
 **Libraries:** NumPy, Pandas, TensorFlow, PyTorch  
 **Databases:** MySQL
