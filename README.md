@@ -1,8 +1,8 @@
 # Hi there, I'm Druv 👋  
 
 🎓 Computer Science student passionate about **Software Development** and **Machine Learning**.  
-💻 Skilled in **C++, Java, Python, React, Node.js, and Spring Boot**.  
-🚀 Love building projects like **E-commerce platforms, NLP-based systems, and blogs**.  
+💻 Skilled in **C++, Java, Python, React, flask , streamlit and ML  
+🚀 Love building projects **.  
 
 ---
 
@@ -14,9 +14,9 @@
 
 ## 💻 Tech Stack
 **Languages:** C++, Java, Python, JavaScript , HTML , CSS
-**Frameworks:** React, Node.js, Spring Boot  
-**Libraries:** NumPy, Pandas, TensorFlow, PyTorch  
-**Databases:** MySQL
-**Tools:** Git, GitHub, AWS, VS Code  
+**Frameworks:** React, Node.js, Spring Boot  , FLask 
+**Libraries:** NumPy, Pandas, Matplotlib  
+**Databases:** MySQL , sqlite3
+**Tools:** Git, GitHub, AWS, VS Code , Docker
 
 ---
