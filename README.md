@@ -1,18 +1,18 @@
-# Hi there, I'm Druv 👋  
+# Hi there, I'm dhruv   
 
-🎓 Computer Science student passionate about **Software Development** and **Machine Learning**.  
-💻 Skilled in **C++, Java, Python, React, flask , streamlit and ML  
-🚀 Love building projects **.  
+Computer Science student passionate about **Software Development** and **Machine Learning**.  
+Skilled in **C++, Java, Python, React, flask , streamlit and ML  
+Love building projects **.  
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv-kumar) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kdhruv512@gmail.com)  
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 **Languages:** C++, Java, Python, JavaScript , HTML , CSS
 **Frameworks:** React, Node.js, Spring Boot  , FLask 
 **Libraries:** NumPy, Pandas, Matplotlib  
