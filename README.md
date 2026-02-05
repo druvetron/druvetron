@@ -7,7 +7,7 @@ Love building projects **.
 ---
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv-kumar) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/dhruv-kumar](https://www.linkedin.com/in/dhruv-kumar-497623278/)) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kdhruv512@gmail.com)  
 
 ---
