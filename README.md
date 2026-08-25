@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="./animation_illustration_GIF_by_ioana_sopov.gif" width="480"/>
+<img src="./mountain.gif" width="480"/>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=190&section=header&text=dhruv&fontSize=44&fontColor=B5EAD7&animation=fadeIn&fontAlignY=38&desc=agentic%20ai%20%C2%B7%20rag%20%C2%B7%20computer%20vision&descAlignY=58&descSize=16" width="100%"/>
 
