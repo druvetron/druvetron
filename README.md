@@ -14,14 +14,6 @@
 
 `$ status: building and learning stuffs `
 
-```
-╭─ dhruv@dev:~ ───────────────────────────╮
-│ $ whoami                                │
-│ > full-stack AI / systems builder       │
-│ 
-╰──────────────────────────────────────────╯
-```
-
 </div>
 
 <br/>
