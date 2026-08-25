@@ -12,8 +12,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3200&pause=900&color=B5EAD7&center=true&vCenter=true&width=560&lines=listen+%26+see;shipping+code+past+midnight;clean+commits%2C+zero+regrets;always+tinkering+on+something+new" alt="Typing SVG" />
 
-`$ status: building and learning stuffs `
-
 </div>
 
 <br/>
