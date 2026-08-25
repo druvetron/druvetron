@@ -62,11 +62,11 @@
 
 <div align="center">
 
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
-
-*(Set this up via the [snk GitHub Action](https://github.com/Platane/snk) — optional but a nice touch!)*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/druvetron/druvetron/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/druvetron/druvetron/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/druvetron/druvetron/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
