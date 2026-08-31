@@ -10,7 +10,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=190&section=header&text=dhruv&fontSize=44&fontColor=B5EAD7&animation=fadeIn&fontAlignY=38&desc=agentic%20ai%20%C2%B7%20rag%20%C2%B7%20computer%20vision&descAlignY=58&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3200&pause=900&color=B5EAD7&center=true&vCenter=true&width=560&lines=listen+%26+see;shipping+code+past+midnight;clean+commits%2C+zero+regrets;always+tinkering+on+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3200&pause=900&color=B5EAD7&center=true&vCenter=true&width=560&lines=listen+%26+see;shipping+code;clean+commits%2C+zero+regrets;always+tinkering+on+something+new" alt="Typing SVG" />
 
 </div>
 
